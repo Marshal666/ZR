@@ -1,0 +1,8 @@
+<Object Type="Obstacle">
+  <Obstacle>
+    <Mesh>/Models/WoodTrunk.obj</Mesh>
+    <Material>/Materials/WoodTrunk.material</Material>
+    <Collider>MeshCollider</Collider>
+  </Obstacle>
+  <Icon>/Objects/WoodTrunk.png</Icon>
+</Object>

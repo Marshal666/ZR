@@ -1,0 +1,26 @@
+<Object Type="MovingObstacle" CustomTag="MovingPlatform">
+  <Rigidbody>
+    <Mass>1000000000</Mass>
+    <UseGravity>false</UseGravity>
+    <Interpolate>Interpolate</Interpolate>
+    <CollisionDetection>Discrete</CollisionDetection>
+    <FreezePosition>fff</FreezePosition>
+    <FreezeRotation>ttt</FreezeRotation>
+  </Rigidbody>
+  <MovingObstacle Type="Linear">
+    <Mesh>/Models/MP1.obj</Mesh>
+    <Material>/Materials/MP1.material</Material>
+    <Collider Convex="True">MeshCollider</Collider>
+    <Points>
+      <Point>
+        <Time>6</Time>
+        <Position>(0,0,0)</Position>
+      </Point>
+      <Point>
+        <Time>6</Time>
+        <Position>(2.666,0,10.5)</Position>
+      </Point>
+    </Points>
+  </MovingObstacle>
+  <Icon>/Objects/MovingPlatformLR.png</Icon>
+</Object>

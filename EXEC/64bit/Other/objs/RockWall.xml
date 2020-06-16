@@ -1,0 +1,8 @@
+<Object Type="Obstacle">
+  <Obstacle>
+    <Mesh>/Models/RockWall.obj</Mesh>
+    <Material>/Materials/RockWall.material</Material>
+    <Collider>BoxCollider</Collider>
+  </Obstacle>
+  <Icon>/Objects/RockWall.png</Icon>
+</Object>

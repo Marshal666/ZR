@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Settings>
+  <UnlockedLevels>
+    <LevelPath>/Levels/Level2/Level.xml</LevelPath>
+    <LevelPath>/Levels/Level3/Level.xml</LevelPath>
+    <LevelPath>/Levels/Level4/Level.xml</LevelPath>
+  </UnlockedLevels>
+  <Options>
+    <MusicVlume>0</MusicVlume>
+    <ShowFps>True</ShowFps>
+  </Options>
+</Settings>

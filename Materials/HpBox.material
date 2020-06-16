@@ -1,0 +1,5 @@
+<Material>
+	<Texture Filtering="Point" AnisoLevel="16">/Textures/HpBox.png</Texture>
+	<Color>FFFFFF00</Color>
+	<NormalMap></NormalMap>
+</Material>

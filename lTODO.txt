@@ -1,0 +1,13 @@
+--1. Make 5 basic levels + 1 custom as example
+--2. Add music to game
+--3. Add options to game (show FPS and music volume)
+--4. Few more decor. models for game
+--5. Complete menu level
+--6. Fix jumping on AI objs
+--7. Particle Effects?
+--8. Finish commenting code?
+--9. Enable bullet dmg
+--10. Ank Icons
+--11. Fix Patroller AI
+
+And Document stuff..

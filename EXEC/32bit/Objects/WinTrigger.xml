@@ -1,0 +1,12 @@
+<Object Type="Trigger">
+  <Trigger>
+    <Mesh>(#Interal)Cube</Mesh>
+    <Collider>BoxCollider</Collider>
+    <OnPlayerEnter>PlayerWin()</OnPlayerEnter>
+    <OnPlayerStay>
+    </OnPlayerStay>
+    <OnPlayerExit>
+    </OnPlayerExit>
+  </Trigger>
+  <Icon>/Objects/WinTrigger.png</Icon>
+</Object>

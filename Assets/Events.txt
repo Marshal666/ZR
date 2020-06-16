@@ -1,0 +1,5 @@
+
+	PlayerWin
+	PlayerDie
+
+	PlayerGainHP

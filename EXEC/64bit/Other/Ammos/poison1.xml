@@ -1,0 +1,15 @@
+<Object Type="Ammo">
+    <Rigidbody>
+      <Mass>1</Mass>
+      <UseGravity>true</UseGravity>
+      <Interpolate>Interpolate</Interpolate>
+      <CollisionDetection>Discrete</CollisionDetection>
+      <FreezePosition>fff</FreezePosition>
+      <FreezeRotation>fff</FreezeRotation>
+    </Rigidbody>
+    <Ammo>
+      <Effect>1</Effect>
+      <Collider>SphereCollider</Collider>
+      <ColliderSize>(0.3,0.3,0.3)</ColliderSize>
+    </Ammo>
+</Object>

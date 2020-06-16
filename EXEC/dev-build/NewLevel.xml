@@ -1,0 +1,22 @@
+<Scene>
+  <Objects />
+  <SceneInfo>
+    <MinHeight>-10</MinHeight>
+  </SceneInfo>
+  <PlayerInfo>
+    <Transform>
+      <Position>(-2.2213780, 1.2631030, 0.3886023)</Position>
+      <Rotation>(0.0000000, 0.0000000, 0.0000000)</Rotation>
+      <Scale>(1.0000000, 1.0000000, 1.0000000)</Scale>
+    </Transform>
+  </PlayerInfo>
+  <CameraInfo>
+    <Position>(-0.4273452, 5.2741350, -7.8036940)</Position>
+    <Rotation>(20.0000000, 350.0000000, 0.0000000)</Rotation>
+    <CameraMode>ThirdPerson</CameraMode>
+    <Points />
+    <GuidedPoints />
+  </CameraInfo>
+  <NextLevel></NextLevel>
+  <Locked>False</Locked>
+</Scene>

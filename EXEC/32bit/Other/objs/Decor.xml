@@ -1,0 +1,7 @@
+<Object Type="Decoration">
+  <Decoration>
+    <Mesh>(#Interal)Cube</Mesh>
+    <Material>/Materials/Mat1.material</Material>
+  </Decoration>
+  <Icon>/Objects/Decor.png</Icon>
+</Object>

@@ -1,0 +1,8 @@
+1.opis završnog rada (naziv, namjenu, itd.),
+2.elektronicku shemu ako rad ukljucuje hardwerske komponente,
+
+    NE navoditi podatke o upotrijebljenoj Arduino plocici (povijest, tipove, itd.) ali znati hardwerske karakteristike plocice,
+
+3.softwerske alate koje ste koristili i s kojom namjenom,
+4.blok shemu iz koje ce se vidjeti medusobna logicka povezanost programskih modula (funkcija, klasa, itd., ovisno o kojem je programskom jeziku rijec),
+5.kratak opis namjene svakog modula vašeg programa.

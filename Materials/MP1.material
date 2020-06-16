@@ -1,0 +1,5 @@
+<Material>
+	<Texture Filtering="Bilinear" AnisoLevel="16" Transparent="True">/Textures/MP1_tex.png</Texture>
+	<Color>FFFFFFFF</Color>
+	<NormalMap></NormalMap>
+</Material>
