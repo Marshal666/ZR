@@ -1,4 +1,4 @@
-# ZR
+# ZR - builds
 
 ZR - an abbreviation for "Završni Rad"
 
