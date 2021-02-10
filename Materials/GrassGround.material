@@ -1,5 +1,0 @@
-<Material>
-	<Texture Filtering="Bilinear" AnisoLevel="16">/Textures/GrassGround.png</Texture>
-	<Color>FFFFFF00</Color>
-	<NormalMap></NormalMap>
-</Material>

@@ -1,8 +1,0 @@
-<Object Type="Obstacle">
-  <Obstacle>
-    <Mesh>(#Interal)Cube</Mesh>
-    <Material>/Materials/Empty.material</Material>
-    <Collider>BoxCollider</Collider>
-  </Obstacle>
-  <Icon>/Objects/SolidCube.png</Icon>
-</Object>

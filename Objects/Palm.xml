@@ -1,7 +1,0 @@
-<Object Type="Decoration">
-  <Decoration>
-    <Mesh>/Models/Palm.obj</Mesh>
-    <Material>/Materials/Palm.material</Material>
-  </Decoration>
-  <Icon>/Objects/Palm.png</Icon>
-</Object>
