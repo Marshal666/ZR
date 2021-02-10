@@ -1,8 +1,0 @@
-<Object Type="Obstacle">
-  <Obstacle>
-    <Mesh>/Models/Monkey.obj</Mesh>
-    <Material>/Materials/Empty.material</Material>
-    <Collider>MeshCollider</Collider>
-  </Obstacle>
-  <Icon>/Objects/Monkey.png</Icon>
-</Object>

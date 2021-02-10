@@ -1,8 +1,0 @@
-<Object Type="Obstacle">
-  <Obstacle>
-    <Mesh>/Models/Cliff.obj</Mesh>
-    <Material>/Materials/Cliff.material</Material>
-    <Collider Convex="True">MeshCollider</Collider>
-  </Obstacle>
-  <Icon>/Objects/Cliff.png</Icon>
-</Object>

@@ -1,7 +1,0 @@
-<Object Type="Decoration">
-  <Decoration>
-    <Mesh>/Models/Spike.obj</Mesh>
-    <Material>/Materials/Spike.material</Material>
-  </Decoration>
-  <Icon>/Objects/Spike.png</Icon>
-</Object>

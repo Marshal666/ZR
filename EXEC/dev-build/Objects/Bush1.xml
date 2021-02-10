@@ -1,7 +1,0 @@
-<Object Type="Decoration">
-  <Decoration>
-    <Mesh>/Models/Bush1.obj</Mesh>
-    <Material>/Materials/Bush1.material</Material>
-  </Decoration>
-  <Icon>/Objects/Bush1.png</Icon>
-</Object>

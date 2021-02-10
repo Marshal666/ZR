@@ -1,8 +1,0 @@
-<Object Type="Obstacle">
-  <Obstacle>
-    <Mesh>/Models/GrassGround.obj</Mesh>
-    <Material>/Materials/GrassGround.material</Material>
-    <Collider>BoxCollider</Collider>
-  </Obstacle>
-  <Icon>/Objects/GrassGround.png</Icon>
-</Object>
